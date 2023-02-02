@@ -1,7 +1,6 @@
-# MODULE-2
-Customer Personality Analysis Data
+# Customer Personality Analysis Data
 
-Capstone Project for Data Analysis
+Exploratory Data Analysis (EDA) to analyze customer behavior, create segmentation of those characteristics customer spending. So, company can adjust what right products supposed to offered to customer as campaign. And also, company can knowing what aspect to do based customer behavior.
 
 There are two items in file:
 
